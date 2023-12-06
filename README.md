@@ -4,3 +4,7 @@ I will be behind, maybe even by a week. I plan to complete as many as I can when
 
 # Learning Plans
 During this code puzzle event, I plan to write these programs in programming languages that I am not familiar with so I can learn them with these coding puzzles.
+
+# Event
+You can find the event here if you would like to participate:
+https://adventofcode.com/2023
